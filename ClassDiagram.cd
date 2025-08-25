@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Analyst" Collapsed="true">
+    <Position X="6.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAkAAAAAEIACAIAAAAAAEAACAAAIAAACAAAQAA=</HashCode>
+      <FileName>Analyst.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnalystPanelWindow" Collapsed="true">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIBAAAAAAAAAAAAAAAAAABBIARBAAAAAA=</HashCode>
+      <FileName>AnalystPanelWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthWindow" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAIAAAAAAAAAAAABIAAAgAAEAA=</HashCode>
+      <FileName>AuthWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseWindow" Collapsed="true">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAABIAAAAAAAAA=</HashCode>
+      <FileName>BaseWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeginWindow" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAA=</HashCode>
+      <FileName>BeginWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangeProfileAnalystWindow" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAEAAFAAAAAAAAAAAAAAAAAABBIAAEAAAAAA=</HashCode>
+      <FileName>ChangeProfileAnalystWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChangeProfileManagerWindow" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAABAAAAEAAAAAAAAAAEAAAAAAAABIAAABAAAAA=</HashCode>
+      <FileName>ChangeProfileManagerWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomException">
+    <Position X="10" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>CustomException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data">
+    <Position X="7.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAARAAABAAAABAQAABAAAAAAABAAAAAAAAAAkiA=</HashCode>
+      <FileName>Data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DirectExpense" Collapsed="true">
+    <Position X="17.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAQAAAAACAAABCAAAIAAgAgAA=</HashCode>
+      <FileName>DirectExpense.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ErrorWindow">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAABIAAAAAAAAA=</HashCode>
+      <FileName>ErrorWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Expense" Collapsed="true">
+    <Position X="20.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAQAAAAAiAAIYIIAAUAAAAAAAgAAAAAAAAQAAAgA=</HashCode>
+      <FileName>Expense.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileManager&lt;T&gt;">
+    <Position X="13" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABBAAACAABAAAAAAAAAAACAAAAAEABABgAAAAA=</HashCode>
+      <FileName>FileManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IndirectExpense" Collapsed="true">
+    <Position X="25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAEIAAgAAABEACAAAAAAAAAgAAABAAAABAAAAAAAAA=</HashCode>
+      <FileName>IndirectExpense.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List&lt;T&gt;">
+    <Position X="16.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAQACAAgAAABAAAgEAIAAAAASEUgAIBiEEoAACACAI=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListNode&lt;T&gt;">
+    <Position X="20.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAIAAAA=</HashCode>
+      <FileName>ListNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Manager" Collapsed="true">
+    <Position X="14.25" Y="7.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAIAAQAAAAAAAAAAAABAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Manager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManProjectAnalystWindow" Collapsed="true">
+    <Position X="21.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIABACAAAiAAAEAAIgACAABBIgAAACAAAA=</HashCode>
+      <FileName>ManProjectAnalystWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManProjectManagerWindow" Collapsed="true">
+    <Position X="26.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBACAAABAABICAAgBAhAAAEUAIiICAAFBIAABAAAgAA=</HashCode>
+      <FileName>ManProjectManagerWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManWithMyProjectWindow" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAICAAAABAAAAAAAAAAAAAABIABACAAQgA=</HashCode>
+      <FileName>ManWithMyProjectWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project" Collapsed="true">
+    <Position X="15" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgQIBAAgAAIpQAIAIKAACEAEQEAEBUBABgCGAAAGAgA=</HashCode>
+      <FileName>Project.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RegWindow" Collapsed="true">
+    <Position X="24.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAABAAggAAAIABAAAAAEAAAABIAEAgAAEAA=</HashCode>
+      <FileName>RegWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System" Collapsed="true">
+    <Position X="17.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACAEQAIAAgAAAACAAIAAAAAAAAAAAAAAACDAAYQA=</HashCode>
+      <FileName>System.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TopUpBudgetWindow" Collapsed="true">
+    <Position X="19.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAACAABIAAAAAAAAA=</HashCode>
+      <FileName>TopUpBudgetWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User" Collapsed="true">
+    <Position X="10.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAAAAAAAigAAAAAAAAAAAEAABAAAAEAAAAAgA=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Window" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAABIAAAAAAAAA=</HashCode>
+      <FileName>Window.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ProjectStatus">
+    <Position X="30.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAQIAAAAAAAAAAAAAAAABAAAAABAAAAA=</HashCode>
+      <FileName>ProjectStatus.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SpecializationLevel">
+    <Position X="32.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>SpecializationLevel.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
